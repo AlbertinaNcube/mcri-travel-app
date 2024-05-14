@@ -1,5 +1,34 @@
 {
-  "pokemon": [
-    
+  "PackingPage": [
+  {
+    "title":"Hiking Shoes",
+    "checkBox": false,
+    "PriorityLevels": "Medium",
+    "Emoji":"🥾"
+  },
+  {
+    "title":"Binoculars",
+    "checkBox": true,
+    "PriorityLevels": "Low",
+    "Emoji":"🔭"
+  },
+{
+  "title":"Binoculars",
+  "checkBox": true,
+  "PriorityLevels": "Low",
+  "Emoji":"🔭"
+},
+{
+  "title":"Sun Hat",
+  "checkBox": false,
+  "PriorityLevels": "Medium",
+  "Emoji":"🥵"
+},
+{
+  "title":"Airplane Entertainment",
+  "checkBox": false,
+  "PriorityLevels": "High",
+  "Emoji":"🎮"
+}
   ]
 }
